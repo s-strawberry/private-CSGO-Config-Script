@@ -1,0 +1,1 @@
+-noforcemaccel -noforcemspd -noforcemparms -ferq 75 -tickrate 128 -novid -console -nosync
