@@ -1,1 +1,1 @@
--noforcemaccel -noforcemspd -noforcemparms -ferq 75 -tickrate 128 -novid -console -nosync
+-noforcemaccel -noforcemspd -noforcemparms -ferq 240 -tickrate 128 -novid -console -nosync -width 1280 -height 960 -full screen
